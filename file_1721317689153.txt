@@ -1,0 +1,1 @@
+ [ 'command', 'shift' ])//npm install clipboardy//https://github.com/sindresorhus/clipboardyimp
