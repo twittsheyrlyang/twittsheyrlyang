@@ -1,0 +1,1 @@
+)  await robot.mouseClick()  await forceWait(2000)  console.log("唤醒浏览器")}//输入浏览器地址async func
