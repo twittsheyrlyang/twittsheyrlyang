@@ -1,0 +1,1 @@
+ort async function readClipboardContent() {  const text = await clipboardy.read();  return text;}
